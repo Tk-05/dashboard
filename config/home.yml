@@ -1,7 +1,7 @@
 - name: Home
   # Optionally, if you only have a single page you can hide the desktop navigation for a cleaner look
   hide-desktop-navigation: true
-  
+
   columns:
     - size: small
       widgets:
@@ -22,30 +22,33 @@
           cache: 1m
           title: Services
           sites:
-          - title: Jellyfin
-            url: https://jellyfin.tk05.org
-            icon: /assets/jellyfin-logo.png
-          - title: Immich
-            url: http://100.127.101.14:30041
-            icon: /assets/immich-logo.png
-          - title: TrueNas
-            url: http://100.127.101.14/ui/dashboard
-            icon: /assets/truenas-logo.png  
-          - title: Pihole
-            url: http://100.116.40.19/admin
-            icon: /assets/pihole-logo.png
-          - title: Proxmox
-            url: https://100.84.63.20:8006/#v1:0:18:4
-            icon: /assets/proxmox-logo.png
-          - title: Nginx
-            url: http://100.84.59.4:81/
-            icon: /assets/nginx-logo.png
-          - title: Tailscale
-            url: https://login.tailscale.com/admin/machines
-            icon: /assets/tailscale-logo.png
-          - title: Strato
-            url: https://www.strato.de/apps/CustomerService#/skl
-            icon: /assets/strato-logo.png
+            - title: Jellyfin
+              url: https://jellyfin.tk05.org
+              icon: /assets/jellyfin-logo.png
+            - title: Immich
+              url: http://100.127.101.14:30041
+              icon: /assets/immich-logo.png
+            - title: TrueNas
+              url: http://100.127.101.14/ui/dashboard
+              icon: /assets/truenas-logo.png
+            - title: Pihole
+              url: http://100.116.40.19/admin
+              icon: /assets/pihole-logo.png
+            - title: Proxmox
+              url: https://100.84.63.20:8006/#v1:0:18:4
+              icon: /assets/proxmox-logo.png
+            - title: Nginx
+              url: http://100.84.59.4:81/
+              icon: /assets/nginx-logo.png
+            - title: Tailscale
+              url: https://login.tailscale.com/admin/machines
+              icon: /assets/tailscale-logo.png
+            - title: Strato
+              url: https://www.strato.de/apps/CustomerService#/skl
+              icon: /assets/strato-logo.png
+            - title: Nextcloud
+              url: https://nextcloud.tk05.org
+              icon: /assets/nextcloud-logo.png
         - type: group
           widgets:
             - type: reddit
@@ -54,8 +57,8 @@
             - type: reddit
               subreddit: selfhosted
               show-thumbnails: true
-            - type : reddit
-              subreddit : pcmasterrace
+            - type: reddit
+              subreddit: pcmasterrace
               show-thumbnails: true
         - type: videos
           channels:
