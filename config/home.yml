@@ -49,6 +49,8 @@
             - title: Nextcloud
               url: https://nextcloud.tk05.org
               icon: /assets/nextcloud-logo.png
+            - title: Crafty
+              url: https://100.106.245.60:8443/login?next=%2Fpanel%2Fdashboard
         - type: group
           widgets:
             - type: reddit
