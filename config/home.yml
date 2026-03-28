@@ -51,7 +51,7 @@
               icon: /assets/nextcloud-logo.png
             - title: Crafty
               url: https://100.106.245.60:8443/login?next=%2Fpanel%2Fdashboard
-            - title:
+            - title: Home assistant
               url: http://100.116.40.19:8123
         - type: group
           widgets:
