@@ -55,6 +55,8 @@
               url: http://100.116.40.19:8123
             - title: Aniworld downloader
               url: http://100.127.101.14:8080/
+            - title: jellyseer
+              url: http://100.127.101.14:30357/
         - type: group
           widgets:
             - type: reddit
