@@ -32,7 +32,7 @@
               url: http://100.127.101.14/ui/dashboard
               icon: /assets/truenas-logo.png
             - title: Pihole
-              url: http://100.116.40.19/admin
+              url: http://100.112.158.38/admin
               icon: /assets/pihole-logo.png
             - title: Proxmox
               url: https://100.84.63.20:8006/#v1:0:18:4
@@ -52,13 +52,13 @@
             - title: Crafty
               url: https://100.106.245.60:8443/login?next=%2Fpanel%2Fdashboard
             - title: Home assistant
-              url: http://100.116.40.19:8123
+              url: http://100.112.158.38:8123
             - title: Aniworld downloader
               url: http://100.127.101.14:8080/
             - title: jellyseer
               url: http://100.127.101.14:30357/
             - title: Portainer
-              url: https://100.116.40.19:9443
+              url: https://100.112.158.38:9443
 
         - type: group
           widgets:
