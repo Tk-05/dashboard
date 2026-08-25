@@ -57,6 +57,9 @@
               url: http://100.127.101.14:8080/
             - title: jellyseer
               url: http://100.127.101.14:30357/
+            - title: Portainer
+              url: https://100.116.40.19:9443
+
         - type: group
           widgets:
             - type: reddit
