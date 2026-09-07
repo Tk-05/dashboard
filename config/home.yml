@@ -50,7 +50,7 @@
               url: https://nextcloud.tk05.org
               icon: /assets/nextcloud-logo.png
             - title: Crafty
-              url: https://100.106.245.60:8443/login?next=%2Fpanel%2Fdashboard
+              url: https://100.112.158.38:8443/login?next=%2Fpanel%2Fdashboard
             - title: Home assistant
               url: http://100.112.158.38:8123
             - title: Aniworld downloader
