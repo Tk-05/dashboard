@@ -59,6 +59,8 @@
               url: http://100.127.101.14:30357/
             - title: Portainer
               url: https://100.112.158.38:9443
+            - title: WOL
+              url: http://100.112.158.38:9090
 
         - type: group
           widgets:
