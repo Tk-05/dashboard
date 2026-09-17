@@ -61,6 +61,8 @@
               url: https://100.112.158.38:9443
             - title: WOL
               url: http://100.112.158.38:9090
+            - title: Hetzner
+              url: https://console.hetzner.com/projects
 
         - type: group
           widgets:
