@@ -35,7 +35,7 @@
               url: http://100.112.158.38/admin
               icon: /assets/pihole-logo.png
             - title: Proxmox
-              url: https://100.84.63.20:8006/#v1:0:18:4
+              url: https://100.102.121.14:8006/#v1:0:18:4
               icon: /assets/proxmox-logo.png
             - title: Nginx
               url: http://100.84.59.4:81/
