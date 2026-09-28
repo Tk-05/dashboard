@@ -32,7 +32,7 @@
               url: http://100.127.101.14/ui/dashboard
               icon: /assets/truenas-logo.png
             - title: Pihole
-              url: http://100.112.158.38/admin
+              url: http://100.92.161.2/admin
               icon: /assets/pihole-logo.png
             - title: Proxmox
               url: https://100.102.121.14:8006/#v1:0:18:4
@@ -60,7 +60,7 @@
             - title: Portainer
               url: https://100.112.158.38:9443
             - title: WOL
-              url: http://100.112.158.38:9090
+              url: http://100.92.161.2:9090
             - title: Hetzner
               url: https://console.hetzner.com/projects
 
