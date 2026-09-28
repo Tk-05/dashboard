@@ -1,7 +1,8 @@
 services:
   glance:
     container_name: glance
-    build: .
+    image: ghcr.io/tk-05/dashboard:latest
+    pull_policy: always
     restart: unless-stopped
     volumes:
       - /etc/localtime:/etc/localtime:ro
