@@ -26,19 +26,19 @@
               url: https://jellyfin.tk05.org
               icon: /assets/jellyfin-logo.png
             - title: Immich
-              url: http://100.127.101.14:30041
+              url: https://immich.internal.tk05.org
               icon: /assets/immich-logo.png
             - title: TrueNas
-              url: http://100.127.101.14/ui/dashboard
+              url: https://truenas.internal.tk05.org/ui/dashboard
               icon: /assets/truenas-logo.png
             - title: Pihole
-              url: http://100.92.161.2/admin
+              url: https://pihole.internal.tk05.org/admin
               icon: /assets/pihole-logo.png
             - title: Proxmox
-              url: https://100.102.121.14:8006/#v1:0:18:4
+              url: https://proxmox.internal.tk05.org/#v1:0:18:4
               icon: /assets/proxmox-logo.png
             - title: Nginx
-              url: http://100.84.59.4:81/
+              url: https://nginx-vps.internal.tk05.org/
               icon: /assets/nginx-logo.png
             - title: Tailscale
               url: https://login.tailscale.com/admin/machines
@@ -50,19 +50,17 @@
               url: https://nextcloud.tk05.org
               icon: /assets/nextcloud-logo.png
             - title: Crafty
-              url: https://100.112.158.38:8443/login?next=%2Fpanel%2Fdashboard
-            - title: Home assistant
-              url: http://100.112.158.38:8123
+              url: https://crafty.internal.tk05.org/login?next=%2Fpanel%2Fdashboard
             - title: Aniworld downloader
-              url: http://100.127.101.14:8080/
+              url: https://aniworld.internal.tk05.org/
             - title: jellyseer
               url: http://100.127.101.14:30357/
             - title: Portainer
-              url: https://100.112.158.38:9443
+              url: https://portainer.internal.tk05.org
             - title: WOL
               url: http://100.92.161.2:9090
             - title: Crowdsec
-              url: http://100.84.59.4:3000/
+              url: https://crowdsec.internal.tk05.org/
             - title: Hetzner
               url: https://console.hetzner.com/projects
 
