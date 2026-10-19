@@ -61,6 +61,8 @@
               url: https://100.112.158.38:9443
             - title: WOL
               url: http://100.92.161.2:9090
+            - title: Crowdsec
+              url: http://100.84.59.4:3000/
             - title: Hetzner
               url: https://console.hetzner.com/projects
 
