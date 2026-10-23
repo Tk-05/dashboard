@@ -37,8 +37,11 @@
             - title: Proxmox
               url: https://proxmox.internal.tk05.org/#v1:0:18:4
               icon: /assets/proxmox-logo.png
-            - title: Nginx
+            - title: Nginx vps
               url: https://nginx-vps.internal.tk05.org/
+              icon: /assets/nginx-logo.png
+            - title: Nginx local
+              url: https://nginx-local.internal.tk05.org/
               icon: /assets/nginx-logo.png
             - title: Tailscale
               url: https://login.tailscale.com/admin/machines
@@ -58,7 +61,7 @@
             - title: Portainer
               url: https://portainer.internal.tk05.org
             - title: WOL
-              url: http://100.92.161.2:9090
+              url: https://wol.internal.tk05.org/
             - title: Crowdsec
               url: https://crowdsec.internal.tk05.org/
             - title: Hetzner
