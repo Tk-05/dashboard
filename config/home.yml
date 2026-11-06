@@ -66,6 +66,8 @@
               url: https://crowdsec.internal.tk05.org/
             - title: Hetzner
               url: https://console.hetzner.com/projects
+            - title: Openclaw
+              url: https://openclaw.internal.tk05.org
 
         - type: group
           widgets:
